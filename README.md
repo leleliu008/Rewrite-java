@@ -21,7 +21,7 @@ gradlew.bat
 ## 3、执行命令
 查看使用帮助：
 ```
-java -jar FileTypeChecker-java-1.0.0.jar -h
+java -jar RewriteFile.jar -h
 ```
 运行结果：
 ```
