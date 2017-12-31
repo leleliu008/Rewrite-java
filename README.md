@@ -9,7 +9,7 @@ git clone https://github.com/leleliu008/Rewrite-java.git
 ```
 
 ## 2、构建jar包
-<a href="http://blog.fpliu.com/it/os/unix-like/distribution/gnu-linux" target="_blank">GNU/Linux</a>、<a href="http://blog.fpliu.com/it/os/macOS" target="_blank">macOS</a>用户执行如下命令：
+<a href="http://blog.fpliu.com/it/os/unix-like#GNU-Linux" target="_blank">GNU/Linux</a>、<a href="http://blog.fpliu.com/it/os/macOS" target="_blank">macOS</a>用户执行如下命令：
 ```
 ./gradlew build
 ```
