@@ -1,7 +1,7 @@
 # Rewrite-java
 重写一个文件的某几个字节的数据。比如，修改某个<a href="http://blog.fpliu.com/it/data/file#checkType" target="_blank">文件的魔数</a>、修改某个文件中的时间戳等，总之，它可能很有用，你懂得。
 <br><br>
-该工具使用<a href="http://blog.fpliu.com/it/language/Java" target="_blank">Java</a>语言编写，使用<a href="http://blog.fpliu.com/it/software/gradle" target="_blank">gradle</a>构建。
+该工具使用<a href="http://blog.fpliu.com/it/software/development/language/Java" target="_blank">Java</a>语言编写，使用<a href="http://blog.fpliu.com/it/software/gradle" target="_blank">gradle</a>构建。
 
 ## 1、克隆项目
 ```
@@ -9,7 +9,7 @@ git clone https://github.com/leleliu008/Rewrite-java.git
 ```
 
 ## 2、构建jar包
-<a href="http://blog.fpliu.com/it/os/unix-like#GNU-Linux" target="_blank">GNU/Linux</a>、<a href="http://blog.fpliu.com/it/os/macOS" target="_blank">macOS</a>用户执行如下命令：
+<a href="http://blog.fpliu.com/it/os/Unix-like#GNU-Linux" target="_blank">GNU/Linux</a>、<a href="http://blog.fpliu.com/it/os/macOS" target="_blank">macOS</a>用户执行如下命令：
 ```
 ./gradlew build
 ```
